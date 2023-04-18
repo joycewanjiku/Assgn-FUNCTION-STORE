@@ -56,6 +56,6 @@ function lowstStock(){
 }
 
 // addItem("Oranges",30);
-updateStcok("Apples",20);
-console.log(totalltems());
-console.log(lowestStock());
+// updateStcok("Apples",20);
+// console.log(totalltems());
+// console.log(lowestStock());
